@@ -1,8 +1,10 @@
-### 3D printer cards
+## 3D printer cards
+
+### Main card
 
 <img src="img/3dprinter_cam.png" align="center">
 
-<details><summary>Main card code</summary>
+<details><summary>Code</summary>
 
 ```yaml
 type: custom:vertical-stack-in-card
@@ -81,9 +83,11 @@ cards:
 
 </details>
 
+### Thumbnail card
+
 <img src="img/3dprinter_thumb.png" align="center">
 
-<details><summary>Thumbnail card code</summary>
+<details><summary>Code</summary>
 
 ```yaml
 type: custom:vertical-stack-in-card
